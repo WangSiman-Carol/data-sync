@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # data-sync [[English]](https://github.com/wuhan2020/data-sync/blob/master/README_en.md)
+=======
+# data-sync [[English]](https://github.com/wuhan2020/data-sync/README_en.md)
+>>>>>>> upstream/master
 
 ![travis](https://travis-ci.com/wuhan2020/data-sync.svg?branch=master)
 
